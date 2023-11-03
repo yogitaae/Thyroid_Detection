@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 from sklearn.impute import SimpleImputer
 
-with open(r"rf_model.pkl", "rb") as f:
+with open(r"C:\Users\yogit\Desktop\MP\rf_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 normal_ranges = {

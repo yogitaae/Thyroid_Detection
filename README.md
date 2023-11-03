@@ -8,3 +8,5 @@ The model I built predicts three statuses based on thyroid hormone levels:
 3. Hypothyroidism: when thyroid hormone levels are lower than normal.
 
 The reference ranges used to predict are taken from a reputable lab, which may vary in the future or even from one test to another.
+
+Dataset is refered from https://archive.ics.uci.edu/dataset/102/thyroid+disease
